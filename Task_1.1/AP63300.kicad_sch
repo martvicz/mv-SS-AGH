@@ -1478,7 +1478,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 99.822 59.69 90)
 			(hide yes)
 			(show_name no)
@@ -1489,7 +1489,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
+		(property "Datasheet" "https://www.koaspeer.com/pdfs/RK73H.pdf"
 			(at 101.6 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -1500,7 +1500,7 @@
 				)
 			)
 		)
-		(property "Description" "30.1 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Thick Film"
+		(property "Description" "30.1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
 			(at 101.6 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -1511,7 +1511,7 @@
 				)
 			)
 		)
-		(property "MPN" "ERJ-1GNF3012C"
+		(property "MPN" "RK73H1JTTD3012F"
 			(at 101.6 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -1571,7 +1571,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 120.3452 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -1663,7 +1663,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 99.822 52.07 90)
 			(hide yes)
 			(show_name no)
@@ -1674,7 +1674,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 101.6 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -1685,7 +1685,7 @@
 				)
 			)
 		)
-		(property "Description" "158 kOhms ±1% 0.05W, 1/20W Chip Resistor 0201 (0603 Metric) Thick Film"
+		(property "Description" "158 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 101.6 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -1696,7 +1696,7 @@
 				)
 			)
 		)
-		(property "MPN" "ERJ-1GNF1583C"
+		(property "MPN" "RC0603FR-07158KL"
 			(at 101.6 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -1755,7 +1755,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 96.2152 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -1766,7 +1766,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8942/490_Chip_Multilayer_CAT2021_MLCC.pdf"
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/885012006021.pdf"
 			(at 95.25 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -1777,7 +1777,7 @@
 				)
 			)
 		)
-		(property "Description" "47 pF ±1% 25V Ceramic Capacitor C0G, NP0 0201 (0603 Metric)"
+		(property "Description" "47 pF ±5% 16V Ceramic Capacitor C0G, NP0 0603 (1608 Metric)"
 			(at 95.25 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -1788,7 +1788,7 @@
 				)
 			)
 		)
-		(property "MPN" "GRM0335C1E470FA01D"
+		(property "MPN" "885012006021"
 			(at 95.25 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -1849,7 +1849,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 39.0652 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -2032,7 +2032,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 83.82 49.8348 0)
 			(hide yes)
 			(show_name no)
@@ -2043,7 +2043,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8942/490_Chip_Multilayer_CAT2021_MLCC.pdf"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/UPY-GPHC_X7R_6_3V-TO-250V"
 			(at 80.01 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -2054,7 +2054,7 @@
 				)
 			)
 		)
-		(property "Description" "0.1 µF ±10% 16V Ceramic Capacitor X7S 0201 (0603 Metric)"
+		(property "Description" "0.1 µF ±10% 16V Ceramic Capacitor X7R 0603 (1608 Metric)"
 			(at 80.01 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -2065,7 +2065,7 @@
 				)
 			)
 		)
-		(property "MPN" "GRM033C71C104KE14D"
+		(property "MPN" "CC0603KRX7R7BB104"
 			(at 80.01 50.8 90)
 			(hide yes)
 			(show_name no)
@@ -2216,7 +2216,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 113.9952 59.69 0)
 			(hide yes)
 			(show_name no)
